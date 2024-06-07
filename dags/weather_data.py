@@ -2,10 +2,13 @@ from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
 from airflow.macros import ds_add
+from dotenv import load_dotenv
 import pendulum
 import os
 from os.path import join
 import pandas as pd
+
+load_dotenv()
 
 with DAG(
         "dados_climaticos",
@@ -20,7 +23,7 @@ with DAG(
 
     def extrai_dados(data_interval_end):
         city = 'Boston'
-        key = '9WNZKK3DYNWU428ZDT4VVU64K'
+        key = os.getenv('key')
         
         URL = f'https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/{city}/{data_interval_end}/{ds_add(data_interval_end, 7)}?key={key}&unitGroup=metric&include=days&key={key}&contentType=csv'
         
