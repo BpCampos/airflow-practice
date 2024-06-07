@@ -1,0 +1,188 @@
+[2024-06-04 19:23:26,675] {processor.py:153} INFO - Started process (PID=193628) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:23:26,676] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:23:26,676] {logging_mixin.py:115} INFO - [2024-06-04 19:23:26,676] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:23:27,094] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:23:27,148] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,148] {manager.py:508} INFO - Created Permission View: can delete on DAG:dados_climaticos
+[2024-06-04 19:23:27,158] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,157] {manager.py:508} INFO - Created Permission View: can edit on DAG:dados_climaticos
+[2024-06-04 19:23:27,237] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,237] {manager.py:508} INFO - Created Permission View: can read on DAG:dados_climaticos
+[2024-06-04 19:23:27,237] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:23:27,242] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,242] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2024-06-04 19:23:27,247] {logging_mixin.py:115} INFO - [2024-06-04 19:23:27,247] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:23:27,261] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.592 seconds
+[2024-06-04 19:24:00,666] {processor.py:153} INFO - Started process (PID=194203) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:00,667] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:24:00,667] {logging_mixin.py:115} INFO - [2024-06-04 19:24:00,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:01,090] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:01,097] {logging_mixin.py:115} INFO - [2024-06-04 19:24:01,097] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:24:01,106] {logging_mixin.py:115} INFO - [2024-06-04 19:24:01,106] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:24:01,118] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.454 seconds
+[2024-06-04 19:24:34,347] {processor.py:153} INFO - Started process (PID=194523) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:34,348] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:24:34,349] {logging_mixin.py:115} INFO - [2024-06-04 19:24:34,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:34,521] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:24:34,527] {logging_mixin.py:115} INFO - [2024-06-04 19:24:34,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:24:34,536] {logging_mixin.py:115} INFO - [2024-06-04 19:24:34,535] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:24:34,547] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.202 seconds
+[2024-06-04 19:25:05,073] {processor.py:153} INFO - Started process (PID=194958) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:05,074] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:25:05,075] {logging_mixin.py:115} INFO - [2024-06-04 19:25:05,075] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:05,253] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:05,261] {logging_mixin.py:115} INFO - [2024-06-04 19:25:05,260] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:25:05,272] {logging_mixin.py:115} INFO - [2024-06-04 19:25:05,272] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:25:05,284] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.212 seconds
+[2024-06-04 19:25:39,156] {processor.py:153} INFO - Started process (PID=195371) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:39,156] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:25:39,157] {logging_mixin.py:115} INFO - [2024-06-04 19:25:39,157] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:39,328] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:25:39,334] {logging_mixin.py:115} INFO - [2024-06-04 19:25:39,334] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:25:39,343] {logging_mixin.py:115} INFO - [2024-06-04 19:25:39,343] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:25:39,354] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.200 seconds
+[2024-06-04 19:26:11,784] {processor.py:153} INFO - Started process (PID=195906) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:11,784] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:26:11,785] {logging_mixin.py:115} INFO - [2024-06-04 19:26:11,785] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:11,954] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:11,961] {logging_mixin.py:115} INFO - [2024-06-04 19:26:11,961] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:26:11,969] {logging_mixin.py:115} INFO - [2024-06-04 19:26:11,969] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:26:11,981] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.199 seconds
+[2024-06-04 19:26:45,139] {processor.py:153} INFO - Started process (PID=196390) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:45,139] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:26:45,140] {logging_mixin.py:115} INFO - [2024-06-04 19:26:45,140] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:45,318] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:26:45,325] {logging_mixin.py:115} INFO - [2024-06-04 19:26:45,325] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:26:45,333] {logging_mixin.py:115} INFO - [2024-06-04 19:26:45,333] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:26:45,344] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.207 seconds
+[2024-06-04 19:27:17,257] {processor.py:153} INFO - Started process (PID=196868) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:17,258] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:27:17,258] {logging_mixin.py:115} INFO - [2024-06-04 19:27:17,258] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:17,441] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:17,447] {logging_mixin.py:115} INFO - [2024-06-04 19:27:17,447] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:27:17,456] {logging_mixin.py:115} INFO - [2024-06-04 19:27:17,456] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:27:17,467] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.212 seconds
+[2024-06-04 19:27:48,157] {processor.py:153} INFO - Started process (PID=197223) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:48,158] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:27:48,158] {logging_mixin.py:115} INFO - [2024-06-04 19:27:48,158] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:48,332] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:27:48,352] {logging_mixin.py:115} INFO - [2024-06-04 19:27:48,352] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:27:48,356] {logging_mixin.py:115} INFO - [2024-06-04 19:27:48,356] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2024-06-04 19:27:48,361] {logging_mixin.py:115} INFO - [2024-06-04 19:27:48,361] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:27:48,372] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.217 seconds
+[2024-06-04 19:28:23,263] {processor.py:153} INFO - Started process (PID=197503) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:23,263] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:28:23,264] {logging_mixin.py:115} INFO - [2024-06-04 19:28:23,264] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:23,445] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:23,451] {logging_mixin.py:115} INFO - [2024-06-04 19:28:23,451] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:28:23,459] {logging_mixin.py:115} INFO - [2024-06-04 19:28:23,459] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:28:23,470] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.209 seconds
+[2024-06-04 19:28:54,756] {processor.py:153} INFO - Started process (PID=197808) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:54,757] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:28:54,757] {logging_mixin.py:115} INFO - [2024-06-04 19:28:54,757] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:54,948] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:28:54,955] {logging_mixin.py:115} INFO - [2024-06-04 19:28:54,955] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:28:54,964] {logging_mixin.py:115} INFO - [2024-06-04 19:28:54,964] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:28:54,974] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.220 seconds
+[2024-06-04 19:31:56,435] {processor.py:153} INFO - Started process (PID=199309) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:31:56,436] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:31:56,436] {logging_mixin.py:115} INFO - [2024-06-04 19:31:56,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:31:56,652] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:31:56,659] {logging_mixin.py:115} INFO - [2024-06-04 19:31:56,659] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:31:56,670] {logging_mixin.py:115} INFO - [2024-06-04 19:31:56,670] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:31:56,704] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.271 seconds
+[2024-06-04 19:32:29,206] {processor.py:153} INFO - Started process (PID=199966) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:32:29,207] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:32:29,207] {logging_mixin.py:115} INFO - [2024-06-04 19:32:29,207] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:32:29,582] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:32:29,589] {logging_mixin.py:115} INFO - [2024-06-04 19:32:29,589] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:32:29,597] {logging_mixin.py:115} INFO - [2024-06-04 19:32:29,597] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:32:29,608] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.404 seconds
+[2024-06-04 19:33:02,243] {processor.py:153} INFO - Started process (PID=200390) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:02,244] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:33:02,245] {logging_mixin.py:115} INFO - [2024-06-04 19:33:02,244] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:02,431] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:02,437] {logging_mixin.py:115} INFO - [2024-06-04 19:33:02,437] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:33:02,446] {logging_mixin.py:115} INFO - [2024-06-04 19:33:02,446] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:33:02,457] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.215 seconds
+[2024-06-04 19:33:37,461] {processor.py:153} INFO - Started process (PID=200944) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:37,462] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:33:37,462] {logging_mixin.py:115} INFO - [2024-06-04 19:33:37,462] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:37,741] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:33:37,749] {logging_mixin.py:115} INFO - [2024-06-04 19:33:37,749] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:33:37,759] {logging_mixin.py:115} INFO - [2024-06-04 19:33:37,758] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-24T00:00:00+00:00, run_after=2024-07-01T00:00:00+00:00
+[2024-06-04 19:33:37,769] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.310 seconds
+[2024-06-04 19:35:14,830] {processor.py:153} INFO - Started process (PID=201863) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:14,831] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:35:14,831] {logging_mixin.py:115} INFO - [2024-06-04 19:35:14,831] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:15,035] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:15,056] {logging_mixin.py:115} INFO - [2024-06-04 19:35:15,055] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:35:15,059] {logging_mixin.py:115} INFO - [2024-06-04 19:35:15,059] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2024-06-04 19:35:15,065] {logging_mixin.py:115} INFO - [2024-06-04 19:35:15,065] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-05-27T00:00:00+00:00, run_after=2024-06-03T00:00:00+00:00
+[2024-06-04 19:35:15,077] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.249 seconds
+[2024-06-04 19:35:51,809] {processor.py:153} INFO - Started process (PID=202650) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:51,809] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:35:51,810] {logging_mixin.py:115} INFO - [2024-06-04 19:35:51,810] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:52,010] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:35:52,016] {logging_mixin.py:115} INFO - [2024-06-04 19:35:52,016] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:35:52,025] {logging_mixin.py:115} INFO - [2024-06-04 19:35:52,025] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:35:52,036] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.229 seconds
+[2024-06-04 19:36:22,799] {processor.py:153} INFO - Started process (PID=202894) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:22,800] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:36:22,800] {logging_mixin.py:115} INFO - [2024-06-04 19:36:22,800] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:22,990] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:22,998] {logging_mixin.py:115} INFO - [2024-06-04 19:36:22,998] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:36:23,007] {logging_mixin.py:115} INFO - [2024-06-04 19:36:23,007] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:36:23,018] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.221 seconds
+[2024-06-04 19:36:53,791] {processor.py:153} INFO - Started process (PID=203257) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:53,792] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:36:53,792] {logging_mixin.py:115} INFO - [2024-06-04 19:36:53,792] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:53,975] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:36:53,981] {logging_mixin.py:115} INFO - [2024-06-04 19:36:53,981] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:36:53,991] {logging_mixin.py:115} INFO - [2024-06-04 19:36:53,991] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:36:54,002] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.212 seconds
+[2024-06-04 19:37:25,919] {processor.py:153} INFO - Started process (PID=203510) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:25,920] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:37:25,920] {logging_mixin.py:115} INFO - [2024-06-04 19:37:25,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:26,097] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:26,103] {logging_mixin.py:115} INFO - [2024-06-04 19:37:26,103] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:37:26,112] {logging_mixin.py:115} INFO - [2024-06-04 19:37:26,112] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:37:26,131] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.213 seconds
+[2024-06-04 19:37:58,107] {processor.py:153} INFO - Started process (PID=203768) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:58,108] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:37:58,108] {logging_mixin.py:115} INFO - [2024-06-04 19:37:58,108] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:58,293] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:37:58,301] {logging_mixin.py:115} INFO - [2024-06-04 19:37:58,300] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:37:58,310] {logging_mixin.py:115} INFO - [2024-06-04 19:37:58,310] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:37:58,321] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.216 seconds
+[2024-06-04 19:38:29,798] {processor.py:153} INFO - Started process (PID=204131) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:38:29,798] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:38:29,799] {logging_mixin.py:115} INFO - [2024-06-04 19:38:29,799] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:38:29,969] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:38:29,975] {logging_mixin.py:115} INFO - [2024-06-04 19:38:29,975] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:38:29,983] {logging_mixin.py:115} INFO - [2024-06-04 19:38:29,983] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:38:29,996] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.201 seconds
+[2024-06-04 19:39:01,540] {processor.py:153} INFO - Started process (PID=204494) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:01,541] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:39:01,541] {logging_mixin.py:115} INFO - [2024-06-04 19:39:01,541] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:01,719] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:01,725] {logging_mixin.py:115} INFO - [2024-06-04 19:39:01,725] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:39:01,734] {logging_mixin.py:115} INFO - [2024-06-04 19:39:01,734] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:39:01,744] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.206 seconds
+[2024-06-04 19:39:35,116] {processor.py:153} INFO - Started process (PID=204757) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:35,117] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:39:35,117] {logging_mixin.py:115} INFO - [2024-06-04 19:39:35,117] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:35,295] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:39:35,301] {logging_mixin.py:115} INFO - [2024-06-04 19:39:35,301] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:39:35,310] {logging_mixin.py:115} INFO - [2024-06-04 19:39:35,310] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:39:35,320] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.206 seconds
+[2024-06-04 19:40:06,973] {processor.py:153} INFO - Started process (PID=205014) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:06,974] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:40:06,974] {logging_mixin.py:115} INFO - [2024-06-04 19:40:06,974] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:07,150] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:07,156] {logging_mixin.py:115} INFO - [2024-06-04 19:40:07,156] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:40:07,165] {logging_mixin.py:115} INFO - [2024-06-04 19:40:07,165] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:40:07,176] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.205 seconds
+[2024-06-04 19:40:39,521] {processor.py:153} INFO - Started process (PID=205329) to work on /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:39,521] {processor.py:641} INFO - Processing file /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py for tasks to queue
+[2024-06-04 19:40:39,522] {logging_mixin.py:115} INFO - [2024-06-04 19:40:39,522] {dagbag.py:507} INFO - Filling up the DagBag from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:39,699] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py
+[2024-06-04 19:40:39,705] {logging_mixin.py:115} INFO - [2024-06-04 19:40:39,705] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-06-04 19:40:39,713] {logging_mixin.py:115} INFO - [2024-06-04 19:40:39,713] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-06-03T00:00:00+00:00, run_after=2024-06-10T00:00:00+00:00
+[2024-06-04 19:40:39,725] {processor.py:161} INFO - Processing /home/bpcampos/Ubuntu/airflow-test/dags/weather_data.py took 0.206 seconds
